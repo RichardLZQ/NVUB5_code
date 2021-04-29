@@ -1,0 +1,33 @@
+Gene,Type
+C1qa,Immune
+C1qb,Immune
+C1qc,Immune
+C4b,Immune
+B2m,Immune
+Tap2,Immune
+H2-D1,Immune
+H2-K1,Immune
+Sparcl1,Synapse_modifying
+Gpc6,Synapse_modifying
+Tgfb2,Synapse_modifying
+Megf10,Synapse_modifying
+Mertk,Synapse_modifying
+Chrdl1,Synapse_modifying
+Kcnj10,NT/Ion receptor
+Kcnn2,NT/Ion receptor
+Slc1a2,NT/Ion receptor
+Slc1a3,NT/Ion receptor
+Slc6a1,NT/Ion receptor
+Slc6a9,NT/Ion receptor
+Slc6a11,NT/Ion receptor
+Slc7a10,NT/Ion receptor
+Slc7a11,NT/Ion receptor
+Slc16a1,NT/Ion receptor
+Srebf1,NT/Ion receptor
+Gja1,NT/Ion receptor
+Gjb6,NT/Ion receptor
+Itpr2,NT/Ion receptor
+Grm3,NT/Ion receptor
+Gria2,NT/Ion receptor
+Gabbr1,NT/Ion receptor
+Gabbr2,NT/Ion receptor
